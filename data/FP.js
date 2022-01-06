@@ -2,6 +2,7 @@ var Point = {
     "searchResult": {
          "Point": [
               {
+                    "id" : "감성돔"
                     "grd_lo": "128.74315019",
                     "grd_la": "35.8072416"
             },
